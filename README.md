@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
 <h2>📜Certifications </h2>
   - [Amazon Q Introduction](https://github.com/joshmadakor1/Algorithms-Practice) <br>
   - [Microsoft Hour of Code](https://github.com/joshmadakor1/Algorithms-Practice)
