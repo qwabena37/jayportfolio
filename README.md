@@ -20,10 +20,11 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://x.com/jamesap64820027?s=21&t=AbM69V2KO8ahiq8r5XHIDQ/ 
 [youtube]: http://www.youtube.com/@jamesappiah5346/
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]:(http://www.linkedin.com/in/james-appiah-926837164)
+[instagram]: https://www.instagram.com/i_am_king_mcjay_ii?igsh=MTlocjNkc3ZnNGQ4Mw%3D%3D&utm_source=qr/
+[linkedin]:http://www.linkedin.com/in/james-appiah-926837164/
+[Tiktok]: https://www.tiktok.com/@qwabena_3?_t=ZM-8y6fAT9ROAX&_r=1/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
