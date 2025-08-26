@@ -1,9 +1,11 @@
-<h1>Hi, I'm Kwabena! <br/><a href="https://github.com/qwabena37/">Software Engineer</a>, <a href="http://www.linkedin.com/in/james-appiah-926837164">Hardware Professional</a>, <a href="https://sites.google.com/view/jameskyeiappiah/home">Graphic Designer</a></h1>
+<h1>Hi, I'm Kwabena! <br/><a href="https://github.com/qwabena37/">A Junior Software Engineer</a>, <a href="http://www.linkedin.com/in/james-appiah-926837164">Hardware Professional</a>, <a href="https://sites.google.com/view/jameskyeiappiah/home">Graphic Designer</a></h1>
 <h2>Programming Skills<h2/>
-  Efficient with Front-end and Back-end Development Tools like HTML&CSS, JavaScript, Python, React, C++, PHP, MongoDB etc
+  Efficient with Front-end and Back-end Development Tools like HTML&CSS, JavaScript, Python, React, C++, PHP, MongoDB etc <br>
+  I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [AirBnB Backend Development](https://github.com/qwabena37/airbnb-clone-project)
   - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
   - [Webe Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/9bf6adc48b8f12d5c78083a1eef7730dc1387de3#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
 <h2>📜Certifications </h2>
