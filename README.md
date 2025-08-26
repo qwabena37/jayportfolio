@@ -4,7 +4,7 @@
   I have a strong desire to grow in the software engineering world, leveraging on the guidance of Senior Software Engineers
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b> 
   - [AirBnB Backend Development](https://github.com/qwabena37/airbnb-clone-project)
   - [Active Directory Home Lab](https://github.com/qwabena37/Active-Directory-Home-Lab/tree/main)
   - [Webe Development with HTML&CSS](https://github.com/qwabena37/My-Website/commit/9bf6adc48b8f12d5c78083a1eef7730dc1387de3#diff-0eb547304658805aad788d320f10bf1f292797b5e6d745a3bf617584da017051)
